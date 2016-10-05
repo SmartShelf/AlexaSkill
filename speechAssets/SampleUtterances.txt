@@ -1,0 +1,7 @@
+GetShelfScalesInfoIntent get shelf info
+GetShelfScalesInfoIntent get my smart shelf info
+
+AMAZON.StopIntent no
+AMAZON.StopIntent nope
+AMAZON.StopIntent no thanks
+AMAZON.StopIntent no thank you
