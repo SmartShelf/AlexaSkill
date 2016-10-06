@@ -72,9 +72,9 @@ SmartShelf.prototype.intentHandlers = {
 
 function getWelcomeResponse(response) {
     // If we wanted to initialize the session to have some attributes we could add those here.
-    var cardTitle = "Your Smart Shelf";
+    var cardTitle = "Smart Shelf";
     var repromptText = "With Smart Shelf , you can check the weight of your items and order a new items ";
-    var speechText = "<p>Smart Shelf.</p> <p>How can help you?</p>";
+    var speechText = "<p>Smart Shelf.</p><p>How can help you?</p>";
     var cardOutput = "How can i help you?";
     // If the user either does not reply to the welcome message or says something that is not
     // understood, they will be prompted again with this text.
